@@ -82,3 +82,46 @@ main{
     
     
  }
+
+
+@media screen and (max-width: 425px){
+   main .grid{
+      display:block;
+      padding:10px;
+
+      
+
+   }
+   main{
+      width:90%;
+      margin: none;
+   
+      
+     
+   }
+   
+   .col1{
+      padding:100px;
+      margin-bottom: 10px;
+   }
+
+   .col2{
+      padding: 100px;
+      margin-bottom: 10px;
+   }
+
+   .col3{
+      padding: 100px;
+      margin-bottom: 10px;
+   }
+
+   .col4{
+      padding: 100px;
+      margin-bottom: 10px;
+   }
+   .col5{
+      padding: 100px;
+      margin-bottom: 10px;
+   }
+ }
+
